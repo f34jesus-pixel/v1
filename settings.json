@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rulecraft.seedloaf.gg",
-    "port": 62186,
+    "ip": "repxycraft.seedloaf.gg",
+    "port": 55695,
     "version": "",
     "try-creative": false
   },
