@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "repxycraft.seedloaf.gg",
+    "ip": "v10.seedloaf.gg",
     "port": 55695,
     "version": "",
     "try-creative": false
